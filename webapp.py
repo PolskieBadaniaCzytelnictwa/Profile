@@ -8,7 +8,7 @@ st.markdown("<h1 style='margin-top: -80px; text-align: center;'>Profile czytelni
 st.markdown('---')
 
 image_html = """
-<img src="https://raw.githubusercontent.com/PolskieBadaniaCzytelnictwa/Profile/main/bubble_web.png" alt="Clickable Image Map" usemap="#imageMap">
+<img src="https://raw.githubusercontent.com/PolskieBadaniaCzytelnictwa/Profile/main/bubble_web.png" alt="Profile czytelnikow" usemap="#imageMap">
 <map name="imageMap">
     <area shape="rect" coords="250,44,290,146" href="https://www.pbc.pl/badane-tytuly/?filtry=dzienniki-ogolnopolskie" alt="Link 1">
     <area shape="rect" coords="305,46,345,144" href="https://www.pbc.pl/badane-tytuly/?filtry=dzienniki-regionalne" alt="Link 2">
